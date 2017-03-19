@@ -1,7 +1,7 @@
 # Traffic Light Control System
 ###### By : 
-###### Ryan Wang @ HUST
-###### BingFull @ HUST
+###### [Ryan Wang](https://github.com/RyanWangGit) @ HUST
+###### [BingFull](https://github.com/BingFull) @ HUST
 ###### Email : ryanwang.cs@gmail.com
 
 A Traffic Light Control System , Based On Basys2 Board Using Verilog. Designed For Digital Logic Course Project.
@@ -27,5 +27,5 @@ It will run in 6 different modes according to the traffic of each road:
 ![Overview](https://cloud.githubusercontent.com/assets/10323518/24080545/9fbd490a-0cdc-11e7-9e6c-a23abe564be4.png)
 
 ## License
-MIT
+[MIT](https://github.com/RyanWangGit/Traffic-Light-Control-System/blob/master/LICENSE).
 
