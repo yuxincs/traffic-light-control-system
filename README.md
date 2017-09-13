@@ -24,7 +24,9 @@ It will run in 6 different modes according to the traffic of each road:
 * **Manual control.** In this state, all outside signals will be omitted and the auto-system will be down. All traffic light signals will be set directly from mission control.
 
 ## Module Overview
-![Overview](https://cloud.githubusercontent.com/assets/10323518/24080545/9fbd490a-0cdc-11e7-9e6c-a23abe564be4.png)
+<p align="center">
+  <img alt="Overview" src="https://cloud.githubusercontent.com/assets/10323518/24080545/9fbd490a-0cdc-11e7-9e6c-a23abe564be4.png"></img>
+</p>
 
 ## License
 [MIT](https://github.com/RyanWangGit/Traffic-Light-Control-System/blob/master/LICENSE).
