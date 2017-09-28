@@ -21,7 +21,7 @@ It will run in 6 different modes according to the traffic of each road:
 
 * **Idle in both h-road and v-road.** In this state, the system behaves like **Busy in h-road, idle in v-road** but make the signal period of green light at h-road to 16 sec.
 
-* **Manual control.** In this state, all outside signals will be omitted and the auto-system will be down. All traffic light signals will be set directly from mission control.
+* **Manual control.** In this state, all outside signals will be omitted and the auto-system will be down. All traffic light signals will be set directly from control center.
 
 ## Module Overview
 <p align="center">
