@@ -7,7 +7,7 @@
 A Traffic Light Control System , Based On Basys2 Board Using Verilog. Designed For Digital Logic Course Project.
 
 ## Introduction
-The crossroad traffic lights controls the traffic of `horizental road`(main) and `vertical road`(secondary).
+The crossroad traffic lights controls the traffic of `horizontal road`(main) and `vertical road`(secondary).
 
 It will run in 6 different modes according to the traffic of each road:
 
