@@ -25,7 +25,7 @@ It will run in 6 different modes according to the traffic of each road:
 
 ## Module Overview
 <p align="center">
-  <img alt="Overview" src="https://cloud.githubusercontent.com/assets/10323518/24080545/9fbd490a-0cdc-11e7-9e6c-a23abe564be4.png"></img>
+  <img alt="https://raw.githubusercontent.com/RyanWangGit/Traffic-Light-Control-System/master/overview.svg"></img>
 </p>
 
 ## License
