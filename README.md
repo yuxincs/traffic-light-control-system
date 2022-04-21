@@ -25,5 +25,5 @@ It will run in 6 different modes according to the traffic of each road:
 </p>
 
 ## License
-[MIT](https://github.com/yxwangcs/traffic-light-control-system/blob/master/LICENSE).
+[MIT](https://github.com/yuxincs/traffic-light-control-system/blob/master/LICENSE).
 
